@@ -1,0 +1,701 @@
+AAV2020;LIBAAV2020;TAAV2017;TDAAV2017;NB_COM
+000;Commune hors attraction des villes;0;0;8921
+001;Paris;5;50;1929
+002;Lyon;4;42;397
+003;Marseille - Aix-en-Provence;4;42;115
+004;Lille (partie française);4;42;201
+005;Toulouse;4;42;527
+006;Bordeaux;4;42;275
+008;Nantes;4;41;116
+010;Strasbourg (partie française);4;41;268
+012;Montpellier;4;41;161
+013;Rennes;4;41;183
+014;Grenoble;4;41;204
+015;Rouen;3;34;317
+017;Nice;3;34;100
+018;Toulon;3;34;35
+019;Tours;3;34;162
+020;Nancy;3;34;353
+022;Clermont-Ferrand;3;33;209
+023;Saint-Étienne;3;33;105
+024;Caen;3;33;296
+025;Orléans;3;33;136
+026;Angers;3;33;81
+028;Dijon;3;33;333
+029;Mulhouse;3;33;132
+030;Perpignan;3;33;118
+031;Cannes - Antibes;3;32;24
+032;Brest;3;32;68
+033;Metz;3;32;245
+034;Le Mans;3;32;144
+035;Amiens;3;32;369
+036;Reims;3;32;294
+037;Nîmes;3;32;92
+038;Valenciennes (partie française);3;32;102
+039;Le Havre;3;32;116
+040;Avignon;3;32;48
+041;Limoges;3;32;127
+042;Lens - Liévin;3;32;50
+043;Annecy;3;31;79
+044;Pau;3;31;227
+045;Besançon;3;31;310
+046;Poitiers;3;31;97
+047;Bayonne (partie française);3;31;56
+048;Dunkerque;3;31;66
+049;Valence;3;31;71
+050;Chambéry;3;31;115
+051;La Rochelle;3;31;72
+052;Quimper;3;31;58
+053;Lorient;3;31;31
+054;Troyes;3;31;209
+055;Saint-Nazaire;3;31;24
+056;Saint-Brieuc;3;31;51
+057;Vannes;2;25;47
+058;Colmar;2;25;95
+059;Douai;2;25;61
+060;Béziers;2;25;53
+061;Montbéliard;2;25;137
+062;Angoulême;2;25;94
+063;Niort;2;25;91
+064;Bourges;2;25;111
+065;Chartres;2;25;117
+066;La Roche-sur-Yon;2;25;45
+067;Cholet;2;25;26
+068;Boulogne-sur-Mer;2;25;80
+069;Arras;2;25;163
+070;Chalon-sur-Saône;2;25;109
+071;Cherbourg-en-Cotentin;2;25;77
+072;Narbonne;2;25;71
+073;Calais;2;25;45
+074;Blois;2;24;78
+075;Laval;2;24;66
+076;Beauvais;2;24;162
+077;Maubeuge (partie française);2;24;65
+078;Compiègne;2;24;101
+079;Roanne;2;24;88
+080;Bourg-en-Bresse;2;24;80
+081;Montauban;2;24;50
+082;Albi;2;24;91
+083;Évreux;2;24;108
+084;Mâcon;2;24;105
+085;Tarbes;2;24;153
+086;Belfort;2;24;91
+087;Brive-la-Gaillarde;2;24;80
+088;Saint-Malo;2;24;35
+089;Alès;2;24;64
+090;Charleville-Mézières;2;24;132
+091;Carcassonne;2;23;115
+092;Fréjus;2;23;6
+093;Agen;2;23;81
+094;Saint-Quentin;2;23;120
+095;Épinal;2;23;118
+096;Saint-Omer;2;23;79
+097;Nevers;2;23;93
+098;Ajaccio;2;23;79
+100;Châteauroux;2;23;71
+101;Périgueux;2;23;49
+102;Auxerre;2;23;104
+103;Rodez;2;23;68
+104;Bastia;2;23;93
+105;Castres;2;23;55
+106;Mont-de-Marsan;2;23;101
+107;Montélimar;2;22;45
+108;Cambrai;2;22;64
+109;Montluçon;2;22;58
+110;Vichy;2;22;50
+111;Dax;2;22;60
+112;Châlons-en-Champagne;2;22;97
+113;Lannion;2;22;40
+114;Dieppe;2;22;62
+115;Le Puy-en-Velay;2;22;59
+116;Alençon;2;22;89
+117;Châtellerault;2;22;44
+118;Sens;2;22;65
+119;Gap;2;22;73
+120;Saintes;2;22;62
+121;Sarreguemines (partie française);2;22;48
+122;Moulins;2;22;64
+123;Aurillac;2;22;85
+124;Saint-Lô;2;22;63
+125;Béthune;2;22;23
+126;Draguignan;2;22;11
+127;Haguenau;2;22;34
+128;Soissons;2;21;92
+129;Bergerac;2;21;73
+130;Montargis;2;21;33
+131;Royan;2;21;26
+132;Lons-le-Saunier;2;21;139
+133;Saumur;2;21;31
+134;Dole;2;21;87
+135;Salon-de-Provence;2;21;6
+136;Laon;2;21;106
+137;Manosque;2;21;30
+138;Vesoul;2;21;158
+139;Les Sables-d'Olonne;2;21;9
+140;Rochefort;2;21;33
+141;Romans-sur-Isère;2;21;30
+142;Saint-Dié-des-Vosges;2;21;47
+143;Aubenas;2;21;68
+144;Louviers;2;21;44
+145;Auch;2;21;112
+146;Saint-Dizier;2;21;72
+147;Roussillon;2;21;27
+148;Carpentras;2;21;21
+149;Morlaix;2;21;24
+150;Arles;2;21;4
+151;Thonon-les-Bains;2;21;18
+152;Cognac;2;21;44
+153;Cahors;2;21;78
+154;Villeneuve-sur-Lot;2;21;34
+155;Ancenis-Saint-Géréon;2;21;12
+156;Auchel - Lillers;2;21;29
+157;Épernay;2;21;44
+158;Sélestat;2;21;37
+159;Libourne;2;21;24
+160;Chaumont;2;21;112
+161;Annonay;2;21;37
+162;Lisieux;2;21;57
+163;Cluses;2;21;12
+164;Abbeville;2;21;73
+165;Orange;2;21;10
+166;Agde;2;21;6
+167;Albertville;2;21;30
+168;Oyonnax;2;21;40
+169;Vitré;2;21;30
+170;Sarrebourg;2;21;87
+171;Flers;2;21;38
+172;Fougères;2;21;26
+173;Les Herbiers;2;21;15
+174;Beaune;2;21;64
+175;Marmande;2;21;48
+176;Montceau-les-Mines;2;21;22
+177;Bar-le-Duc;2;21;86
+178;Saint-Avold (partie française);1;14;28
+179;Guéret;1;14;72
+180;Challans;1;14;12
+181;Pontarlier;1;14;54
+182;Vendôme;1;14;57
+183;Le Creusot;1;14;22
+184;Longwy;1;14;23
+185;Bagnols-sur-Cèze;1;14;30
+186;Granville;1;14;34
+187;Dinan;1;14;25
+188;Redon;1;14;22
+189;Bressuire;1;14;19
+190;Pierrelatte;1;14;17
+191;Sablé-sur-Sarthe;1;14;39
+192;Saint-Hilaire-de-Riez;1;14;13
+193;Verdun;1;14;103
+194;Issoire;1;14;53
+195;Saint-Gaudens;1;14;85
+196;Gien;1;14;29
+197;Forbach (partie française);1;14;10
+198;Vire Normandie;1;14;20
+199;Pamiers;1;14;52
+200;Sète;1;14;1
+201;Cavaillon;1;14;6
+202;Montaigu-Vendée;1;14;8
+203;Romorantin-Lanthenay;1;14;29
+204;Fontenay-le-Comte;1;14;30
+205;Coutances;1;14;37
+206;Tulle;1;14;43
+207;Pontivy;1;14;16
+208;Vierzon;1;14;20
+209;Château-Thierry;1;14;52
+210;Montbrison;1;14;27
+211;Arcachon - La Teste-de-Buch;1;14;2
+212;Chemillé-en-Anjou;1;14;2
+213;Brignoles;1;14;10
+214;Quimperlé;1;14;11
+215;Argentan;1;14;50
+216;Sedan;1;14;31
+217;Thouars;1;14;26
+218;Vitry-le-François;1;14;73
+219;Mayenne;1;14;27
+220;Fécamp;1;14;26
+221;Noeux-les-Mines;1;14;8
+222;Beaucaire;1;14;5
+223;Châteaudun;1;14;25
+224;Millau;1;14;23
+225;Thiers;1;14;19
+226;Figeac;1;14;59
+227;La Ferté-Bernard;1;14;37
+228;Châteaubriant;1;14;20
+229;Loudéac;1;14;22
+230;Bernay;1;14;36
+231;Pornic;1;14;7
+232;Caudry;1;14;17
+233;Sarlat-la-Canéda;1;14;45
+234;Avranches;1;14;32
+235;Berck;1;14;19
+236;Hazebrouck;1;14;11
+237;Pont-Audemer;1;14;34
+238;Trouville-sur-Mer;1;14;35
+239;Autun;1;14;42
+240;Remiremont;1;14;12
+241;Parthenay;1;14;26
+242;Noyon;1;14;38
+243;Ambérieu-en-Bugey;1;14;15
+244;Château-Gontier-sur-Mayenne;1;14;19
+245;Villefranche-de-Rouergue;1;14;34
+246;Friville-Escarbotin;1;14;33
+247;Étaples - Le Touquet-Paris-Plage;1;14;21
+248;Eu;1;14;26
+249;Sallanches;1;14;4
+250;Val de Briey;1;14;14
+251;Digne-les-Bains;1;13;34
+252;Nogent-le-Rotrou;1;13;25
+253;Oloron-Sainte-Marie;1;13;44
+254;Cosne-Cours-sur-Loire;1;13;30
+255;Ploërmel;1;13;19
+256;Bruay-la-Buissière;1;13;2
+257;Guingamp;1;13;15
+258;Segré-en-Anjou Bleu;1;13;6
+259;Luxeuil-les-Bains;1;13;41
+260;Langres;1;13;77
+261;Hendaye (partie française);1;13;3
+262;L'Aigle;1;13;32
+263;Aire-sur-la-Lys;1;13;15
+264;Romilly-sur-Seine;1;13;26
+265;Bayeux;1;13;29
+266;Biscarrosse;1;13;7
+267;Privas;1;13;24
+268;Castelnaudary;1;13;34
+269;Miramas;1;13;1
+270;Pithiviers;1;13;27
+271;Biars-sur-Cère - Saint-Céré;1;13;49
+272;Pleyben - Châteaulin;1;13;18
+273;Chauny;1;13;23
+274;Pont-à-Mousson;1;13;16
+275;Apt;1;13;18
+276;Gray;1;13;63
+277;Péronne;1;13;52
+278;Mende;1;13;31
+279;Avallon;1;13;74
+280;Creutzwald;1;13;8
+281;Foix;1;13;38
+282;Lourdes;1;13;45
+283;Tergnier;1;13;14
+284;Saint-Girons;1;13;70
+285;Saint-Jean-de-Maurienne;1;13;26
+286;Belley;1;13;31
+287;Fourmies;1;13;7
+288;La Flèche;1;13;11
+289;Landivisiau;1;13;12
+290;Briançon;1;13;15
+291;Lure;1;13;33
+292;Paimpol;1;13;13
+293;Saint-Pol-sur-Ternoise;1;13;72
+294;Chinon;1;13;20
+295;Saint-Marcellin;1;13;17
+296;Roscoff - Saint-Pol-de-Léon;1;13;9
+297;Vittel - Contrexéville;1;13;72
+298;Porto-Vecchio;1;13;10
+299;Yvetot;1;13;15
+300;Saint-Amand-Montrond;1;13;36
+301;Le Luc;1;13;5
+302;Capbreton;1;13;6
+303;Somain;1;13;5
+304;L'Isle-sur-la-Sorgue;1;13;4
+305;Carhaix-Plouguer;1;13;18
+306;Gaillac;1;13;14
+307;Neufchâteau;1;13;72
+308;Hirson;1;13;26
+309;Ussel;1;13;38
+310;Orthez;1;13;26
+311;Luçon;1;13;13
+312;Lannemezan;1;13;65
+313;Morteau;1;13;21
+314;Bédarieux;1;13;26
+315;Saint-Jean-d'Angély;1;13;37
+316;Le Grau-du-Roi;1;13;3
+317;Amnéville - Rombas;1;13;2
+318;Issoudun;1;13;20
+319;Saint-Claude;1;13;18
+320;Feurs;1;13;16
+321;Évron;1;12;18
+322;Freyming-Merlebach (partie française);1;12;3
+323;Saint-Flour;1;12;36
+324;Brioude;1;12;39
+325;Uzès;1;12;18
+326;Joigny;1;12;14
+327;Limoux;1;12;39
+328;Loches;1;12;23
+329;Moissac;1;12;7
+330;Decazeville;1;12;12
+331;Ambert;1;12;29
+332;Mauges-sur-Loire;1;12;1
+333;Louhans;1;12;15
+334;Valréas;1;12;12
+335;Tournon-sur-Rhône;1;12;9
+336;Paray-le-Monial;1;12;19
+337;Chantonnay;1;12;10
+338;Champagnole;1;12;43
+339;Revel;1;12;16
+340;Lavelanet;1;12;28
+341;Bollène;1;12;2
+342;Crest;1;12;17
+343;Sisteron;1;12;21
+344;Bourg-Saint-Maurice;1;12;9
+345;Pézenas;1;12;8
+346;Verneuil d'Avre et d'Iton;1;12;24
+347;Loudun;1;12;25
+348;Le Blanc;1;12;23
+349;Sainte-Maxime;1;12;2
+350;Gérardmer;1;12;13
+351;La Ferté Macé;1;12;17
+352;Honfleur;1;12;11
+353;Crozon;1;12;7
+354;Jonzac;1;12;35
+355;Lesparre-Médoc;1;12;12
+356;Castelsarrasin;1;12;6
+357;Belleville-en-Beaujolais;1;12;4
+358;Carentan-les-Marais;1;12;13
+359;Vaison-la-Romaine;1;12;14
+360;Pineuilh;1;12;16
+361;Nérac;1;12;17
+362;Doué-en-Anjou;1;12;7
+363;Prades;1;12;26
+364;La Tour-du-Pin;1;12;4
+365;Châtillon-sur-Seine;1;12;60
+366;Tonneins;1;12;11
+367;Graulhet;1;12;7
+368;Wissembourg (partie française);1;12;11
+369;Surgères;1;12;9
+370;Decize;1;12;13
+371;Bormes-les-Mimosas;1;12;3
+372;Commercy;1;12;19
+373;Barbezieux-Saint-Hilaire;1;12;25
+374;Tarare;1;12;6
+375;Saint-Vallier;1;12;9
+376;Pont-Saint-Esprit;1;12;5
+377;Montpon-Ménestérol;1;12;13
+378;Hesdin;1;12;28
+379;Maîche;1;12;23
+380;Avesnes-sur-Helpe;1;12;14
+381;Montval-sur-Loir;1;12;12
+382;Montmorillon;1;12;18
+383;Clamecy;1;12;45
+384;Saint-Gervais-les-Bains;1;12;7
+385;Fumel;1;12;10
+386;Ruffec;1;12;30
+387;Essarts-en-Bocage;1;12;6
+388;Saint-Yrieix-la-Perche;1;12;11
+389;Bar-sur-Aube;1;12;43
+390;Yssingeaux;1;12;9
+391;Blaye;1;12;13
+392;Semur-en-Auxois;1;12;54
+393;Saint-Chély-d'Apcher;1;12;22
+394;Auray;1;12;1
+395;Dives-sur-Mer;1;12;12
+396;Valence;1;12;16
+397;Sézanne;1;12;37
+398;Bagnères-de-Bigorre;1;12;21
+399;Saint-Martin-de-Crau;1;12;1
+400;Gournay-en-Bray;1;12;21
+401;Roye;1;12;35
+402;Le Cateau-Cambrésis;1;12;11
+403;Aubigny-sur-Nère;1;12;16
+404;Saint-Affrique;1;12;16
+405;Cogolin;1;12;2
+406;Condom;1;12;23
+407;Mazamet;1;12;4
+408;Chamonix-Mont-Blanc;1;12;4
+409;Lillebonne;1;12;6
+410;Gourdon;1;12;22
+411;Pouzauges;1;12;7
+412;Nyons;1;12;17
+413;Nogent-sur-Seine;1;12;19
+414;Corte;1;12;34
+415;Tonnerre;1;12;38
+416;Digoin;1;12;8
+417;Givet;1;12;11
+418;Mortagne-au-Perche;1;12;25
+419;Aubusson;1;12;34
+420;La Côte-Saint-André;1;12;8
+421;Aire-sur-l'Adour;1;12;23
+422;Hauts de Bienne;1;12;7
+423;Moûtiers;1;12;7
+424;Jarny;1;12;8
+425;Ribérac;1;12;24
+426;Delle (partie française);1;12;8
+427;Embrun;1;12;12
+428;Sully-sur-Loire;1;12;8
+429;Saint-Florentin;1;12;19
+430;Calvi;1;12;15
+431;Guer;1;12;9
+432;Vidauban;1;12;1
+433;Baugé-en-Anjou;1;12;1
+434;Nontron;1;12;19
+435;La Souterraine;1;12;12
+436;Gueugnon;1;12;12
+437;Beaurepaire;1;12;10
+438;Valdahon;1;12;22
+439;Marennes-Hiers-Brouage;1;12;3
+440;La Réole;1;12;20
+441;Saint-Hilaire-du-Harcouët;1;12;8
+442;Montbard;1;12;34
+443;Lodève;1;12;19
+444;Le Pouliguen;1;12;3
+445;Pauillac;1;12;5
+446;Tournus;1;12;14
+447;La Châtaigneraie;1;12;10
+448;Mirecourt;1;12;33
+449;Sainte-Menehould;1;12;50
+450;Ham;1;12;13
+451;Le Thillot;1;12;7
+452;La Châtre;1;12;14
+453;Saint-Jean-de-Monts;1;12;2
+454;Saint-Maixent-l'École;1;12;4
+455;Mimizan;1;12;5
+456;Bazas;1;12;18
+457;Montrichard Val de Cher;1;12;7
+458;Ciboure;1;12;2
+459;Saint-Rémy-de-Provence;1;12;2
+460;Saint-Pourçain-sur-Sioule;1;12;14
+461;Faulquemont;1;12;7
+462;Ernée;1;12;5
+463;La Londe-les-Maures;1;12;1
+464;La Tremblade;1;12;3
+465;Vouziers;1;12;45
+466;Guise;1;12;21
+467;Le Vigan;1;12;20
+468;Die;1;12;27
+469;Rostrenen;1;12;10
+470;Mamers;1;12;21
+471;Bort-les-Orgues;1;11;11
+472;Montdidier;1;11;23
+473;Migennes;1;11;4
+474;La Guerche-de-Bretagne;1;11;11
+475;Rambervillers;1;11;15
+476;Merville;1;11;1
+477;Le Mené;1;11;6
+478;Saint-Éloy-les-Mines;1;11;15
+479;Joinville;1;11;31
+480;Les Andelys;1;11;7
+481;Sainte-Marie-aux-Mines;1;11;4
+482;Saint-Valery-en-Caux;1;11;17
+483;Hagetmau;1;11;16
+484;Neufchâtel-en-Bray;1;11;15
+485;Mauléon-Licharre;1;11;21
+486;Marvejols;1;11;10
+487;Melle;1;11;6
+488;Confolens;1;11;14
+489;Le Neubourg;1;11;13
+490;Céret;1;11;3
+491;Bapaume;1;11;21
+492;Saint-Tropez;1;11;3
+493;Villedieu-les-Poêles-Rouffigny;1;11;11
+494;Le Nouvion-en-Thiérache;1;11;12
+495;L'Île-Rousse;1;11;12
+496;Mourenx;1;11;4
+497;Soustons;1;11;2
+498;Craon;1;11;9
+499;Égletons;1;11;14
+500;Poligny;1;11;22
+501;Bouzonville;1;11;12
+502;Saint-Palais;1;11;25
+503;Le Cheylard;1;11;20
+504;Saint-Chamas;1;11;1
+505;Lagnieu;1;11;3
+506;Gramat;1;11;18
+507;Condé-en-Normandie;1;11;7
+508;Farébersviller;1;11;3
+509;Baccarat;1;11;13
+510;Valgelon-La Rochette;1;11;13
+511;Bellac;1;11;11
+512;Port-Saint-Louis-du-Rhône;1;11;1
+513;La Flotte;1;11;4
+514;Bourbon-Lancy;1;11;12
+515;Mauriac;1;11;16
+516;Château-Arnoux-Saint-Auban;1;11;4
+517;Bitche;1;11;10
+518;Argelès-Gazost;1;11;19
+519;Casteljaloux;1;11;14
+520;Le Pont-de-Beauvoisin;1;11;4
+521;Souillac;1;11;11
+522;Forcalquier;1;11;7
+523;Saint-Jean-Pied-de-Port;1;11;22
+524;Châtillon-sur-Chalaronne;1;11;5
+525;Saint-Méen-le-Grand;1;11;4
+526;Baud;1;11;2
+527;Dieuze;1;11;31
+528;Espalion;1;11;7
+529;Bagnères-de-Luchon;1;11;44
+530;Gannat;1;11;8
+531;Châteauneuf-du-Faou;1;11;5
+532;Chauffailles;1;11;9
+533;Pontorson;1;11;5
+534;Brienne-le-Château;1;11;30
+535;Brou;1;11;7
+536;Saint-Vincent-de-Tyrosse;1;11;1
+537;Sarre-Union;1;11;12
+538;Pluvigner;1;11;1
+539;Argenton-sur-Creuse;1;11;7
+540;Propriano;1;11;13
+541;Morhange;1;11;22
+542;Thiviers;1;11;10
+543;Eauze;1;11;12
+544;Machecoul-Saint-Même;1;11;1
+545;Montmirail;1;11;19
+546;Langeac;1;11;14
+547;Fruges;1;11;22
+548;Saint-Mihiel;1;11;17
+549;Cavalaire-sur-Mer;1;11;1
+550;Morzine;1;11;8
+551;Josselin;1;11;4
+552;Charmes;1;11;10
+553;Thizy-les-Bourgs;1;11;2
+554;La Loupe;1;11;8
+555;Saint-Satur - Sancerre;1;11;14
+556;Pleslin-Trigavou;1;11;2
+557;Locminé;1;11;2
+558;Uzerche;1;11;8
+559;Rouffach;1;11;2
+560;Gaillon;1;11;1
+561;Longué-Jumelles;1;11;2
+562;Vervins;1;11;21
+563;La Charité-sur-Loire;1;11;4
+564;Barcelonnette;1;11;11
+565;Amplepuis;1;11;3
+566;Amélie-les-Bains-Palalda;1;11;6
+567;Quiberon;1;11;2
+568;Blancs-Coteaux;1;11;11
+569;Montoire-sur-le-Loir;1;11;11
+570;Marckolsheim;1;11;4
+571;Bohain-en-Vermandois;1;11;3
+572;Plateau d'Hauteville;1;11;6
+573;Carignan;1;11;12
+574;Saint-Calais;1;11;10
+575;Pons;1;11;8
+576;Blangy-sur-Bresle;1;11;8
+577;Beuzeville;1;11;5
+578;Carnac;1;11;2
+579;Arbois;1;11;16
+580;Les Abrets en Dauphiné;1;11;1
+581;Nonancourt - Saint-Lubin-des-Joncherets;1;11;2
+582;Charolles;1;11;12
+583;Lectoure;1;11;13
+584;Revin;1;11;1
+585;Morestel;1;11;3
+586;Breteuil;1;11;5
+587;Banyuls-sur-Mer;1;11;2
+588;Saint-Aignan;1;11;5
+589;Sarrians;1;11;1
+590;Domfront en Poiraie;1;11;8
+591;Cours;1;11;4
+592;Mallemort;1;11;1
+593;Sainte-Sigolène;1;11;1
+594;Salies-de-Béarn;1;11;6
+595;Sées;1;11;7
+596;Chazelles-sur-Lyon;1;11;2
+597;Phalsbourg;1;11;3
+598;Fayence;1;11;1
+599;Argentat-sur-Dordogne;1;11;12
+600;Lapalisse;1;11;9
+601;Nogaro;1;11;18
+602;Villaines-la-Juhel;1;11;8
+603;Fumay;1;11;4
+604;Forges-les-Eaux;1;11;5
+605;Belz;1;11;2
+606;Beaumont-de-Lomagne;1;11;11
+607;Saint-Fulgent;1;11;2
+608;Port-la-Nouvelle;1;11;1
+609;Miramont-de-Guyenne;1;11;5
+610;Bruyères;1;11;8
+611;Reichshoffen;1;11;1
+612;Laragne-Montéglin;1;11;10
+613;Morcenx-la-Nouvelle;1;11;2
+614;Solesmes;1;11;2
+615;Cugand;1;11;2
+616;Vic-Fezensac;1;11;11
+617;Modane;1;11;6
+618;Lacaune;1;11;11
+619;Venarey-les-Laumes;1;11;10
+620;Salbris;1;11;1
+621;Gourin;1;11;3
+622;Mourmelon-le-Grand;1;11;1
+623;Bonneval;1;11;1
+624;Le Lude;1;11;3
+625;La Voulte-sur-Rhône;1;11;1
+626;Saint-Loup-sur-Semouse;1;11;10
+627;Dompierre-sur-Besbre;1;11;3
+628;Sommières;1;11;1
+629;Étain;1;11;5
+630;Cany-Barville;1;11;6
+631;Sillé-le-Guillaume;1;11;5
+632;L'Île-d'Yeu;1;11;1
+633;Salins-les-Bains;1;11;14
+634;Cerizay;1;11;1
+635;Varennes-sur-Allier;1;11;3
+636;Gorron;1;11;7
+637;Peyrehorade;1;11;3
+638;Saint-Didier-sur-Chalaronne;1;11;2
+639;Maubourguet;1;11;13
+640;Saint-Jean-de-Bournay;1;11;1
+641;Saint-Amour;1;11;7
+642;Saint-Père-en-Retz;1;11;1
+643;Isigny-sur-Mer;1;11;5
+644;Bar-sur-Seine;1;11;7
+645;Aime-la-Plagne;1;11;1
+646;Niederbronn-les-Bains;1;11;1
+647;Durtal;1;11;2
+648;Luneray;1;11;8
+649;Saint-Georges-de-Reneins;1;11;1
+650;Steenvoorde;1;11;1
+651;Saint-Laurent-Nouan;1;11;1
+652;Culoz-Béon;1;11;3
+653;Brionne;1;11;1
+654;Mirande;1;11;3
+655;Mazères;1;11;2
+656;Malestroit;1;11;3
+657;Bouxwiller;1;11;1
+658;Lessay;1;11;4
+659;Bouchain;1;11;1
+660;Suippes;1;11;1
+661;Tartas;1;11;3
+662;Fessenheim;1;11;3
+663;Plancoët;1;11;2
+664;Castets;1;11;2
+665;Tarascon-sur-Ariège;1;11;6
+666;Moréac;1;11;1
+667;Broons;1;11;2
+668;Tréguier;1;11;2
+669;Méaulte;1;11;9
+670;Chablis;1;11;7
+671;Saint-Étienne-de-Saint-Geoirs;1;11;1
+672;Saint-Julien-du-Sault;1;11;3
+673;Soultz-sous-Forêts;1;11;1
+674;Saint-Venant;1;11;1
+675;Le Bar-sur-Loup;1;11;1
+676;Le Pouzin;1;11;1
+677;Saint-Geours-de-Maremne;1;11;1
+678;Chaulnes;1;11;4
+679;Montreuil-sur-Mer;1;11;1
+680;Flamanville;1;11;1
+681;Val-d'Isère;1;11;1
+682;Villers-la-Montagne;1;11;1
+9A1;Les Abymes;3;32;18
+9A2;Basse-Terre;2;21;7
+9A3;Bouillante;1;11;1
+9B1;Fort-de-France;3;32;28
+9B2;Le Lorrain;1;11;1
+9B3;Basse-Pointe;1;11;4
+9C1;Cayenne;2;24;6
+9C2;Saint-Laurent-du-Maroni;1;14;1
+9C3;Kourou;1;13;2
+9D1;Saint-Denis;3;32;6
+9D2;Saint-Pierre - Le Tampon;3;31;5
+9D3;Le Port;1;14;1
+9D4;Saint-Paul;2;25;5
+9D5;Saint-Louis;2;21;1
+9D6;Saint-Benoît;2;21;3
+9D7;Salazie;1;11;1
+9F1;Mamoudzou;3;31;17
+BAL;Bâle - Saint-Louis (partie française);3;34;94
+CHA;Charleroi (partie française);3;34;1
+GEN;Genève - Annemasse (partie française);4;41;158
+LAU;Lausanne (partie française);3;33;3
+LUX;Luxembourg (partie française);4;41;115
+MON;Monaco - Menton (partie française);2;23;12
+SAR;Sarrebruck (partie française);4;41;12
