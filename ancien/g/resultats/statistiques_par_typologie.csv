@@ -1,5 +1,0 @@
-,pop20,pop20,pop20,nombre_communes,densite_pop,conso_enaf_par_hab,conso_enaf_total,conso_enaf_total,taux_evol_pop
-,count,sum,mean,mean,mean,mean,sum,mean,mean
-typologie,,,,,,,,,
-"Dense, Faible conso, Croissance modérée",571,64712518,113331.91,56.33,139.54,2.97,166653191,291861.98,-0.34
-"Peu dense, Forte conso, Croissance modérée",98,2362588,24108.04,22.53,64.91,10.6,23212828,236865.59,-0.23
